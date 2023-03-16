@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/twitter/follow/reactnative.svg?label=Follow%20@reactnative" alt="Follow @reactnative" />
   </a>
 </p>
-projeto que se baseia no Spotify onde o usuário pode ouvir suas musicas pausa-las 
+Project that is based on Spotify where the user can listen to their songs pause them 
 
 # 📔 Requisitos:
 - necessário o android studio ou o sistema da apple para uso do simulador.
